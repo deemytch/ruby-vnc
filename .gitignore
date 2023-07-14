@@ -35,3 +35,4 @@ Gemfile.lock
 
 ## For gem build artifacts
 /build/
+/bin
